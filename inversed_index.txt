@@ -1,0 +1,14 @@
+word_id  doc_id:freq  doc_id:freq  doc_id:freq  doc_id:freq  doc_id:freq  doc_id:freq  doc_id:freq
+
+computer
+hardware,
+sport 
+politics 
+religion 
+auto 
+car 
+sale 
+space 
+data 
+information
+economics
